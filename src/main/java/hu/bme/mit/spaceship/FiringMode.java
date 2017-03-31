@@ -2,7 +2,9 @@ package hu.bme.mit.spaceship;
 
 /**
 * Weapon firing mode enumeration
-* nice comment
+
+* this is an even nicer comment!!!
+
 */
 public enum FiringMode {
   SINGLE, ALL
